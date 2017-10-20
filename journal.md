@@ -38,4 +38,7 @@ NEXT:
  - Config for Pincher V3
  - Review Armlink Software for necessary changes to accomodate Pincher V3
  
+#journal entry 3
 --------------
+GOALS:
+ - You know what fuck whatever I thought I was doing, I'm just going to keep at whatever is in front of me
